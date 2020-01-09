@@ -10,5 +10,6 @@ def toadstool
 end
 
 def link
-   talk = 
+   talk = "It's Dangerous To Go Alone! Take This."
+   puts talk
 end
